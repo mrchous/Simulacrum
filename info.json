@@ -1,0 +1,10 @@
+{
+	"name": "simulacrum",
+	"version": "1.0.0",
+	"title": "Simulacrum",
+	"author": "IKEA",
+	"dependencies": ["base >= 1.1", "Krastorio2Assets", "! Factorissimo2", "! space-exploration", "! SeaBlock", "! spaceblock", "? alien-biomes", "? aai-signal-transmission"],
+	"description": "Advance your simulation by adding more simulations within. Not compatible with most of the overhaul mods, mods that change world generation, or add new planets.",
+	"factorio_version": "1.1",
+	"homepage":""
+}
